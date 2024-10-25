@@ -38,7 +38,7 @@ console.log(mountainSubstr);
 // Aggiungi zeri all'inizio della variabile elevation per renderla lunga 6 caratteri
 const paddedElevation = elevation.padStart(6, 0o0);
 console.log(paddedElevation);
-Riduci
+
 
 
 
